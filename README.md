@@ -1,2 +1,2 @@
-# projeto-curso-git
+# GitHub
 Aprendendo as funcionalidades do Git
